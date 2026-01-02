@@ -10,7 +10,7 @@ index.html {
   background-color: aliceblue;
 }
 
-.header {
+header {
   background-image: linear-gradient(pink, mediumorchid);
   border: 5px solid;
   border-color: pink;
@@ -21,7 +21,7 @@ index.html {
   text-indent: 0.4in
   text-shadow: 1px 1px 3px hotpink;
 }
-.article-preview {
+article-preview {
   background-image: linear-gradient(lavenderblush, pink);
   border: 5px solid;
   border-color: pink;
@@ -32,7 +32,7 @@ index.html {
   margin-left: 0.5in;
   float: left;
 }
-.article-preview2 {
+article-preview2 {
   background-image: linear-gradient(lavenderblush, pink);
   border: 5px solid;
   border-color: pink;
@@ -46,6 +46,6 @@ index.html {
   bottom: 214px; left: 275px;
 }
 
-.spacer {
+spacer {
   height: 0.25in
 }
